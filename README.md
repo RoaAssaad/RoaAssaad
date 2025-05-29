@@ -65,7 +65,6 @@ I’m passionate about Backend Development, Frontend Development, AI/ML, and bui
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoaAssaad&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=RoaAssaad&color=blue&style=flat-square)
 
 ---
 
