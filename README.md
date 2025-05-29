@@ -1,12 +1,11 @@
 # 👋 Hi there, I'm Roa Al Assaad!
 
 I'm a **Senior Computer Science student** at the **University of Balamand**, graduating in **Fall 2025**.  
-I’m passionate about Backend Development , Frontend development, AI/ML, and building impactful software using modern technologies.
+I’m passionate about Backend Development, Frontend Development, AI/ML, and building impactful software using modern technologies.
 
 ---
 
-## Contact Me
-
+##  Contact Me
   - 📧 Email: [roadandashi@gmail.com](mailto:roadandashi@gmail.com)  
   - 💼 LinkedIn: [linkedin.com/in/roaassaad](https://www.linkedin.com/in/roaassaad/)
 
@@ -25,6 +24,8 @@ I’m passionate about Backend Development , Frontend development, AI/ML, and bu
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🌐 Web & UI
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white)
@@ -36,6 +37,7 @@ I’m passionate about Backend Development , Frontend development, AI/ML, and bu
 
 ### ⚙️ Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-262626?style=for-the-badge&logo=typeorm&logoColor=white)
@@ -44,6 +46,8 @@ I’m passionate about Backend Development , Frontend development, AI/ML, and bu
 ### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-FEDC00?style=for-the-badge&logoColor=black)
 
 ### 🧠 AI & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -52,13 +56,16 @@ I’m passionate about Backend Development , Frontend development, AI/ML, and bu
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoaAssaad&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoaAssaad&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=RoaAssaad&color=blue&style=flat-square)
 
 ---
 
