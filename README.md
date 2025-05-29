@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Roa Al Assaad!
 
-I'm a **Computer Science student** at the **University of Balamand**, graduating in **Fall 2025**.  
+I'm a ** Senior Computer Science student** at the **University of Balamand**, graduating in **Fall 2025**.  
 I’m passionate about Backend Development , Frontend development, AI/ML, and building impactful software using modern technologies.
 
 ---
